@@ -2,7 +2,7 @@ name: heroku-jupyter
 dependencies:
   # bind notebook version (compatibility to pgcontents)
   - pip
-  - notebook = 4
+  - notebook = 6.0.2
   - ipywidgets
   - requests
   # bind ipython version (compatibility to pgcontents)
